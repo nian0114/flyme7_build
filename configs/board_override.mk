@@ -15,7 +15,6 @@ BOARD_MODIFY_RESID_FILES := \
     framework/flyme-telephony-common.jar \
     priv-app/Contacts/Contacts.apk \
     priv-app/ContactsProvider/ContactsProvider.apk \
-    priv-app/Dialer/Dialer.apk \
     priv-app/DownloadProvider/DownloadProvider.apk \
     priv-app/InCallUI/InCallUI.apk \
     priv-app/Keyguard/Keyguard.apk \
