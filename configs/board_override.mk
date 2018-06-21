@@ -25,6 +25,8 @@ BOARD_MODIFY_RESID_FILES := \
     priv-app/SettingsProvider/SettingsProvider.apk \
     priv-app/Settings/Settings.apk \
     priv-app/SystemUI/SystemUI.apk \
+    priv-app/SystemUITools/SystemUITools.apk \
+    priv-app/SystemUIEx/SystemUIEx.apk \
     priv-app/Telecom/Telecom.apk \
     priv-app/TelephonyProvider/TelephonyProvider.apk \
     priv-app/TeleService/TeleService.apk
